@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="dineshgurung123" /> </p>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **Ecommerce Website**
 
 - 🌱 I’m currently learning **PHP**
 
